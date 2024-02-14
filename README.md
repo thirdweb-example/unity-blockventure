@@ -1,7 +1,7 @@
 # blockventure
  Unity SDK Starter Template - Lite RPG Gathering, Shopping and Trading Systems.
 
- ![488418454b1826a317fde2fa87881622](https://github.com/thirdweb-example/blockventure/assets/43042585/23945d43-202c-4909-bb7e-f4010bd1e50e)
+![blockventure](https://github.com/thirdweb-example/blockventure/assets/43042585/206d94fa-b363-4093-ba8b-ff753ecf00b2)
 
 Contains a single scene:
 - `00_Scene_Main`: Contains all game and blockchain elements, including gathering (ERC20, shopping (ERC1155), and trading (MarketplaceV3) systems.
